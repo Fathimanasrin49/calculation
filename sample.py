@@ -1,3 +1,3 @@
-a=10
-b=20
-print(a*b)
+a=3
+b=4
+print(a+b)
